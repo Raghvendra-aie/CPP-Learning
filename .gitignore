@@ -1,0 +1,19 @@
+# Executable files
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Visual Studio Code settings (optional)
+.vscode/
+
+# Build folders
+build/
+bin/
+
+# Temporary files
+*.log
