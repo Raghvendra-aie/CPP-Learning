@@ -13,8 +13,8 @@ int main()
     //cout << age ;
 
     //defination
-    int agee = 18 ;
-    cout << "Author age is : "<< agee << endl;
+  
+    cout << "Author age is : "<< age << endl;
 
     return 0;
 }
