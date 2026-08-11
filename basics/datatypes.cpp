@@ -17,5 +17,10 @@ int main()
     cout <<"Double = "<<d<<"\n";
     cout <<"char = "<<ch<<"\n";
     cout <<"Boolean = "<<boo<<"\n";
+
+    //Here we know the size 💀 of DataTypes 
+    
+    cout <<sizeof(i)<< " Byte" <<endl;
+
     return 0;
 }
